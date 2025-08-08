@@ -1,0 +1,1 @@
+export type TypesLoginErrors = 'USER_NOT_FOUND' | 'ACCESS_DENIED';
